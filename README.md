@@ -1,4 +1,4 @@
-# projetoAmanda3
+# Projeto Amanda 3° nota
 Projeto referente a 3° nota da atividade de Engenharia de Software 2, durante o 4° período do curso de Ciência da Computação na Faculdade Católica da Paraíba, ministrada pela professora Amanda Miranda.
 Sistema de Gerenciamento de Estoque (Arquitetura em Camadas)Sistema para controle e gerenciamento de estoque em uma empresa. Permite o cadastro, atualização e exclusão de itens, além da geração de relatórios de inventário. A arquitetura em camadas facilita a divisão entre interface, lógica de negócios e persistência de dados.  Integração com PostgreSQL para armazenar informações de produtos, histórico de transações e níveis de estoque. 
 A interface, web ou desktop para facilitar o acesso. 
