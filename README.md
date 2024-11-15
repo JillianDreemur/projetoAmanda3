@@ -5,23 +5,25 @@ A interface, web ou desktop para facilitar o acesso.
 Padrões de projeto:
 
     O padrão Builder: é utilizado para a criação de relatórios de estoque com diferentes configurações. 
-    Com ele, é possível gerar relatórios customizados com informações detalhadas, como produtos por categoria, 
-    itens com estoque baixo ou resumo das movimentações,
+    Com ele, é possível gerar relatórios customizados com informações detalhadas,
+    como produtos por categoria, itens com estoque baixo ou resumo das movimentações,
     permitindo que o usuário adapte o relatório conforme as necessidades específicas da empresa.
-    O padrão Abstract Factory: é implementado para criar objetos de diferentes tipos de produtos, como alimentos, 
-    eletrônicos e materiais de escritório. 
-    Esse padrão facilita a criação de novos tipos de produtos, possibilitando uma adaptação rápida do sistema
-    a diferentes setores e simplificando
+    O padrão Abstract Factory: é implementado para criar objetos de diferentes tipos de produtos,
+    como alimentos, eletrônicos e materiais de escritório. 
+    Esse padrão facilita a criação de novos tipos de produtos, possibilitando uma adaptação 
+    rápida do sistema a diferentes setores e simplificando
     a lógica de categorização e organização do estoque.
 
 A data de entrega é para o dia 05/12 às 12h.
 
 Observações Importantes: 
 
-    É OBRIGATÓRIO O DOCUMENTO DE REQUISITOS FUNCIONAIS E NAO FUNCIONAIS (Segue o modelo de exemplo em anexo)
+    É OBRIGATÓRIO O DOCUMENTO DE REQUISITOS FUNCIONAIS E NAO FUNCIONAIS 
+    (Segue o modelo de exemplo em anexo)
     Deverá ser criado um repositório privado criado por algum membro da equipe 
     Esse repositório será clonado pelos demais participantes
-    Deverá ser convidado como colaborador do repositório (para correção) o  seguinte usuário: amandamirandam  
+    Deverá ser convidado como colaborador do repositório (para correção)
+    o  seguinte usuário: amandamirandam  
     As branchs do repositório serão as seguintes: 
     - master 
     - desenvolvimento 
