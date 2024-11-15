@@ -23,9 +23,9 @@ Observações Importantes:
     Esse repositório será clonado pelos demais participantes
     Deverá ser convidado como colaborador do repositório (para correção) o  seguinte usuário: amandamirandam  
     As branchs do repositório serão as seguintes: 
-    master 
-    desenvolvimento 
-    nome_do_aluno
+    - master 
+    - desenvolvimento 
+    - nome_do_aluno
 
 Cada aluno deverá desenvolver em sua própria branch. 
 O código da branch nome_do_aluno deverá ser enviada (merge) para branch desenvolvimento.
