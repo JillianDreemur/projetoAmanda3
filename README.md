@@ -4,7 +4,8 @@ Sistema de Gerenciamento de Estoque (Arquitetura em Camadas)Sistema para control
 A interface, web ou desktop para facilitar o acesso. 
 Padrões de projeto:
 
-    O padrão Builder: é utilizado para a criação de relatórios de estoque com diferentes configurações. 
+    O padrão Builder: é utilizado para a criação de relatórios de estoque com 
+    diferentes configurações. 
     Com ele, é possível gerar relatórios customizados com informações detalhadas,
     como produtos por categoria, itens com estoque baixo ou resumo das movimentações,
     permitindo que o usuário adapte o relatório conforme as necessidades específicas da empresa.
